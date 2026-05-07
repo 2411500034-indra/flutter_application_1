@@ -10,9 +10,9 @@ class DashboardPage extends StatefulWidget {
 
 class _DashboardPageState extends State<DashboardPage> {
   final List<String> aktivitas = [
-    'Makan Makan',
-    'Olahraga Malam',
-    'Membaca Manga',
+    'kuliah',
+    'Olahraga',
+    'Membaca',
     'Mengerjakan Tugas',
     'Main Game',
   ];
